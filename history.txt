@@ -1,0 +1,6 @@
+ls
+history
+cd
+cd
+quit
+touch
